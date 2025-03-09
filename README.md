@@ -1,5 +1,6 @@
 # TitanicDataAnalysis
-Analysis of the Survived and Not Survived passengers that were on the Titanic
+Analysis of the Survived and Not Survived passengers of the Titanic
+
 Data collection and cleaning
 
 Exploratory Data Analysis (EDA)
